@@ -31,7 +31,7 @@ int main()
         }
         printf("\n Clock: ");
         printf("\n %02d:%02d:%02d", h,m,s);
-        Sleep(d);//the function sleep slow down the while loo´p and make it more like a real clock.
+        Sleep(d);//the function sleep slow down the while loop and make it more like a real clock.
 
         system("cls");//this clears the scream
     }
